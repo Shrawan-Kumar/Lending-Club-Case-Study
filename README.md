@@ -1,6 +1,6 @@
-# Lending-Club-Case-Study
+# Lending-Club-Case-Study: A Data Analytics Project
 
-# A Data Analytics Project
+
 
 
 # Problem Statement and Business Understanding:

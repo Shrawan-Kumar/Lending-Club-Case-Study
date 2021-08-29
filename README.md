@@ -1,11 +1,8 @@
-# Lending-Club-Case-Study: A Data Analytics Project
+# Lending-Club-Case-Study: A Data Analytics Project Identifies Loan Defalulter
 
 
 
-
-Problem Statement and Business Understanding:
-
-Problem statement : To analyse risk in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers. Two types of risks are associated with the bank’s decision:
+**Problem statement :** To analyse risk in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers. Two types of risks are associated with the bank’s decision:
 
 ● If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company.
 

@@ -1,6 +1,6 @@
 # Lending-Club-Case-Study:
 
-A Data Analytics Project Identifies Loan Defalulter
+A Data Analytics Project Identifies Loan Defaulter
 
 
 
